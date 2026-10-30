@@ -1,0 +1,8 @@
+{
+  "name": "Buttonberry",
+  "description": "Functional Fashion Accessories with a whimsical vintage aesthetic. Little Things, Lovely Days.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

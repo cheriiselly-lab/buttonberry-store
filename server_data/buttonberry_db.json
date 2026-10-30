@@ -1,0 +1,638 @@
+{
+  "admins": [
+    {
+      "id": "admin-01",
+      "name": "Berry Studio Owner",
+      "email": "admin@buttonberry.com",
+      "passwordHash": "1f5582ffa08115fd32bc1bcd42b79a6e258279826cf9562bd297c642f5c2cb2d",
+      "role": "Super Admin",
+      "lastLogin": "2026-10-30T03:25:50.220Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "bb-01",
+      "name": "Strawberry Picnic Tote",
+      "slug": "strawberry-picnic-tote",
+      "category": "Tote Bags",
+      "price": 129000,
+      "originalPrice": 149000,
+      "colors": [
+        {
+          "name": "Strawberry Pink",
+          "hex": "#E99AA8"
+        },
+        {
+          "name": "Butter Yellow",
+          "hex": "#F6E7A6"
+        }
+      ],
+      "description": "Tote bag dengan motif gingham dan detail strawberry yang playful. Dirancang untuk membawa laptop, buku bacaan, dan perlengkapan harianmu.",
+      "story": "Terinspirasi dari sore piknik di bawah pohon rindang dengan keranjang rotan dan buah stroberi segar. Setiap tote memiliki saku depan berbordir tangan dan kancing kayu mungil yang dijahit dengan benang katun pilihan.",
+      "image": "/src/assets/images/product_strawberry_picnic_tote_1793250121895.jpg",
+      "gallery": [
+        "/src/assets/images/product_strawberry_picnic_tote_1793250121895.jpg",
+        "/src/assets/images/hero_buttonberry_collection_1793250120557.jpg"
+      ],
+      "tag": "Bestseller",
+      "dimensions": "38 cm × 34 cm × 9 cm (Handle drop: 28 cm)",
+      "material": "Premium Heavyweight Cotton Linen, Cotton Canvas Lining, Hand-carved Wood Button",
+      "stock": 14,
+      "status": "Active",
+      "isBestseller": true,
+      "isNew": false,
+      "rating": 4.9,
+      "reviewCount": 38,
+      "careInstructions": [
+        "Cuci dengan tangan menggunakan air dingin & sabun lembut",
+        "Hindari memeras terlalu kuat untuk menjaga bentuk struktur saku",
+        "Keringkan di tempat teduh dan setrika dengan suhu sedang"
+      ]
+    },
+    {
+      "id": "bb-02",
+      "name": "Little Daydream Sling",
+      "slug": "little-daydream-sling",
+      "category": "Sling Bags",
+      "price": 189000,
+      "originalPrice": 219000,
+      "colors": [
+        {
+          "name": "Cream",
+          "hex": "#FFF8EC"
+        },
+        {
+          "name": "Sage Green",
+          "hex": "#A8B69A"
+        }
+      ],
+      "description": "Sling bag praktis untuk kebutuhan sehari-hari dengan siluet vintage modern, gesper logam kuningan antik, dan strap yang nyaman.",
+      "story": "Sahabat setia untuk jalan-jalan santai mencari toko buku tua dan kedai kopi tenang. Siluet kotaknya kokoh namun lembut, memadukan nuansa kulit vegan premium dengan jahitan rapi buatan pengrajin lokal.",
+      "image": "/src/assets/images/product_little_daydream_sling_1793250121639.jpg",
+      "gallery": [
+        "/src/assets/images/product_little_daydream_sling_1793250121639.jpg",
+        "/src/assets/images/hero_buttonberry_collection_1793250120557.jpg"
+      ],
+      "tag": "Little Favorite",
+      "dimensions": "21 cm × 16 cm × 7.5 cm (Adjustable strap: 95 - 125 cm)",
+      "material": "Smooth Vegan Leather, Antique Brass Hardware, Peach Twill Lining",
+      "stock": 8,
+      "status": "Active",
+      "isBestseller": true,
+      "isNew": false,
+      "rating": 5,
+      "reviewCount": 42,
+      "careInstructions": [
+        "Bersihkan noda permukaan dengan kain microfiber basah yang lembut",
+        "Simpan dalam dustbag saat tidak digunakan"
+      ]
+    },
+    {
+      "id": "bb-03",
+      "name": "Cherry Patch Card Holder",
+      "slug": "cherry-patch-card-holder",
+      "category": "Card Holders",
+      "price": 59000,
+      "originalPrice": 69000,
+      "colors": [
+        {
+          "name": "Cherry Red",
+          "hex": "#B94B50"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FFF8EC"
+        }
+      ],
+      "description": "Card holder compact dengan detail patch cherry timbul, 4 slot kartu utama, dan 1 saku tengah serbaguna.",
+      "story": "Kecil dan praktis untuk menyimpan kartu transportasi, e-money, dan kartu prioritasmu. Detail buah ceri merah dengan daun hijau mungil memberikan sentuhan keceriaan.",
+      "image": "/src/assets/images/product_cherry_card_holder_1793250122338.jpg",
+      "gallery": [
+        "/src/assets/images/product_cherry_card_holder_1793250122338.jpg"
+      ],
+      "tag": "Bestseller",
+      "dimensions": "10.2 cm × 7.5 cm × 0.4 cm",
+      "material": "Supple Pebble Vegan Leather, Raised Embroidery Patch, RFID-Shielded Core",
+      "stock": 22,
+      "status": "Active",
+      "isBestseller": true,
+      "isNew": false,
+      "rating": 4.8,
+      "reviewCount": 56,
+      "careInstructions": [
+        "Lap lembut dengan kain kering"
+      ]
+    },
+    {
+      "id": "bb-04",
+      "name": "Sunday Notes Pouch",
+      "slug": "sunday-notes-pouch",
+      "category": "Pouches",
+      "price": 79000,
+      "originalPrice": 89000,
+      "colors": [
+        {
+          "name": "Butter Yellow",
+          "hex": "#F6E7A6"
+        },
+        {
+          "name": "Strawberry Pink",
+          "hex": "#E99AA8"
+        }
+      ],
+      "description": "Pouch multifungsi untuk menyimpan barang-barang kecil, kosmetik, earphone, alat tulis, atau obat-obatan pribadi.",
+      "story": "Didesain menyerupai kantong surat vintage dengan tepi scalloped bergelombang yang manis. Dilengkapi tarikan ritsleting kancing kayu berukir stroberi.",
+      "image": "/src/assets/images/product_sunday_notes_pouch_1793250122134.jpg",
+      "gallery": [
+        "/src/assets/images/product_sunday_notes_pouch_1793250122134.jpg"
+      ],
+      "tag": "New",
+      "dimensions": "18 cm × 12 cm × 6 cm",
+      "material": "Natural Cotton Duck Canvas, Embroidered Scallop Edge, YKK Vintage Gold Zipper",
+      "stock": 4,
+      "status": "Active",
+      "isBestseller": false,
+      "isNew": true,
+      "rating": 4.9,
+      "reviewCount": 19,
+      "careInstructions": [
+        "Cuci lembut dengan deterjen cair"
+      ]
+    },
+    {
+      "id": "bb-05",
+      "name": "Berry Loop Bag Strap",
+      "slug": "berry-loop-bag-strap",
+      "category": "Bag Straps",
+      "price": 49000,
+      "originalPrice": 59000,
+      "colors": [
+        {
+          "name": "Pink Mix",
+          "hex": "#E99AA8"
+        },
+        {
+          "name": "Cherry Mix",
+          "hex": "#B94B50"
+        }
+      ],
+      "description": "Strap tas dengan kombinasi warna playful, rajutan jacquard rapat, dan kaitan kuningan putar 360 derajat yang kuat.",
+      "story": "Ubah suasana tas favoritmu dalam sekejap! Motif rajut strawberry & geometric vintage memberikan aksen statement instan pada tas polos apa pun.",
+      "image": "/src/assets/images/product_berry_loop_strap_1793250122713.jpg",
+      "gallery": [
+        "/src/assets/images/product_berry_loop_strap_1793250122713.jpg"
+      ],
+      "tag": "Little Favorite",
+      "dimensions": "Lebar 4 cm, Panjang dapat diatur 80 - 135 cm",
+      "material": "Jacquard High-Density Weave, Antique Brass Swivel Snap Hooks",
+      "stock": 16,
+      "status": "Active",
+      "isBestseller": false,
+      "isNew": true,
+      "rating": 4.7,
+      "reviewCount": 24,
+      "careInstructions": [
+        "Bersihkan spot kotor dengan sikat gigi halus"
+      ]
+    },
+    {
+      "id": "bb-06",
+      "name": "Tiny Treasure Keychain",
+      "slug": "tiny-treasure-keychain",
+      "category": "Keychains",
+      "price": 35000,
+      "colors": [
+        {
+          "name": "Strawberry",
+          "hex": "#B94B50"
+        },
+        {
+          "name": "Cherry",
+          "hex": "#E99AA8"
+        },
+        {
+          "name": "Daisy",
+          "hex": "#F6E7A6"
+        }
+      ],
+      "description": "Gantungan kunci dekoratif untuk tas, dompet, kunci rumah, dan aksesori pribadi dengan pesona vintage scrapbook.",
+      "story": "Sebuah jimat kecil pembawa senyum di saku atau tasmu. Menggabungkan pesona strawberry enamel merah, liontin daun kuningan, dan kancing kayu asli.",
+      "image": "/src/assets/images/product_tiny_treasure_keychain_1793250123420.jpg",
+      "gallery": [
+        "/src/assets/images/product_tiny_treasure_keychain_1793250123420.jpg"
+      ],
+      "tag": "Bestseller",
+      "dimensions": "Panjang total 8.5 cm (Ring diameter 3 cm)",
+      "material": "Hard Enamel, Natural Hardwood Button, Antique Brass Ring & Charms",
+      "stock": 35,
+      "status": "Active",
+      "isBestseller": true,
+      "isNew": false,
+      "rating": 5,
+      "reviewCount": 67,
+      "careInstructions": [
+        "Hindari terkena parfum langsung"
+      ]
+    },
+    {
+      "id": "bb-07",
+      "name": "Butter Blossom Coin Purse",
+      "slug": "butter-blossom-coin-purse",
+      "category": "Pouches",
+      "price": 85000,
+      "originalPrice": 95000,
+      "colors": [
+        {
+          "name": "Butter Yellow",
+          "hex": "#F6E7A6"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FFF8EC"
+        }
+      ],
+      "description": "Dompet koin kiss-lock klasik dengan sulaman bunga daisy dan bingkai kuningan timbul bernuansa antik.",
+      "story": "Bunyi klik logam kiss-lock yang renyah membawa memori manis ke masa lalu. Dibuat dari kulit lembut bergradasi mentega hangat dengan bordir bunga aster putih.",
+      "image": "/src/assets/images/product_butter_coin_purse_1793250142786.jpg",
+      "gallery": [
+        "/src/assets/images/product_butter_coin_purse_1793250142786.jpg"
+      ],
+      "tag": "Handmade Delight",
+      "dimensions": "11 cm × 9.5 cm × 4.5 cm",
+      "material": "Soft Calf-grain Vegan Leather, Embossed Antique Brass Kiss-Lock, Daisy Silk Embroidery",
+      "stock": 3,
+      "status": "Active",
+      "isBestseller": false,
+      "isNew": true,
+      "rating": 4.9,
+      "reviewCount": 15,
+      "careInstructions": [
+        "Hindari benturan keras pada bingkai kiss-lock"
+      ]
+    },
+    {
+      "id": "bb-08",
+      "name": "Gingham Ribbon Bag Charm",
+      "slug": "gingham-ribbon-bag-charm",
+      "category": "Bag Straps",
+      "price": 42000,
+      "colors": [
+        {
+          "name": "Strawberry Pink",
+          "hex": "#E99AA8"
+        },
+        {
+          "name": "Sage Green",
+          "hex": "#A8B69A"
+        }
+      ],
+      "description": "Pita gantungan tas motif gingham dengan kancing kayu bordir strawberry dan klip penjepit kuningan antik.",
+      "story": "Sentuhan manis yang membuat setiap tas polos langsung terasa seperti edisi khusus Buttonberry.",
+      "image": "/src/assets/images/product_ribbon_bag_tie_1793250142776.jpg",
+      "gallery": [
+        "/src/assets/images/product_ribbon_bag_tie_1793250142776.jpg"
+      ],
+      "tag": "New",
+      "dimensions": "Panjang pita 14 cm, Lebar 2.5 cm",
+      "material": "Hand-woven Cotton Gingham Ribbon, Linen Padded Charm, Brass Crocodile Clip",
+      "stock": 25,
+      "status": "Active",
+      "isBestseller": false,
+      "isNew": true,
+      "rating": 4.8,
+      "reviewCount": 18,
+      "careInstructions": [
+        "Setrika dengan alas kain pelindung pada suhu rendah"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "orderId": "BB-2601",
+      "customerName": "Clara Anindita",
+      "phone": "081234567890",
+      "email": "clara@example.com",
+      "address": "Jl. Senopati No. 18, Kebayoran Baru",
+      "city": "Jakarta Selatan",
+      "postalCode": "12190",
+      "shippingOption": {
+        "id": "ship-regular",
+        "name": "Standard Berry Express",
+        "courier": "SiCepat",
+        "estimate": "2-3 hari",
+        "cost": 15000
+      },
+      "paymentMethod": "QRIS (GoPay/OVO/ShopeePay)",
+      "items": [
+        {
+          "product": {
+            "id": "bb-01",
+            "name": "Strawberry Picnic Tote",
+            "slug": "strawberry-picnic-tote",
+            "category": "Tote Bags",
+            "price": 129000,
+            "originalPrice": 149000,
+            "colors": [
+              {
+                "name": "Strawberry Pink",
+                "hex": "#E99AA8"
+              },
+              {
+                "name": "Butter Yellow",
+                "hex": "#F6E7A6"
+              }
+            ],
+            "description": "Tote bag dengan motif gingham dan detail strawberry yang playful. Dirancang untuk membawa laptop, buku bacaan, dan perlengkapan harianmu.",
+            "story": "Terinspirasi dari sore piknik di bawah pohon rindang dengan keranjang rotan dan buah stroberi segar. Setiap tote memiliki saku depan berbordir tangan dan kancing kayu mungil yang dijahit dengan benang katun pilihan.",
+            "image": "/src/assets/images/product_strawberry_picnic_tote_1793250121895.jpg",
+            "gallery": [
+              "/src/assets/images/product_strawberry_picnic_tote_1793250121895.jpg",
+              "/src/assets/images/hero_buttonberry_collection_1793250120557.jpg"
+            ],
+            "tag": "Bestseller",
+            "dimensions": "38 cm × 34 cm × 9 cm (Handle drop: 28 cm)",
+            "material": "Premium Heavyweight Cotton Linen, Cotton Canvas Lining, Hand-carved Wood Button",
+            "stock": 14,
+            "status": "Active",
+            "isBestseller": true,
+            "isNew": false,
+            "rating": 4.9,
+            "reviewCount": 38,
+            "careInstructions": [
+              "Cuci dengan tangan menggunakan air dingin & sabun lembut",
+              "Hindari memeras terlalu kuat untuk menjaga bentuk struktur saku",
+              "Keringkan di tempat teduh dan setrika dengan suhu sedang"
+            ]
+          },
+          "selectedColor": "Strawberry Pink",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 129000,
+      "shippingFee": 15000,
+      "discount": 0,
+      "total": 144000,
+      "status": "Processing",
+      "trackingNumber": "SCP-BB-9921",
+      "date": "2026-10-29T22:25:37.709Z"
+    },
+    {
+      "orderId": "BB-2602",
+      "customerName": "Nabila Putri",
+      "phone": "081398765432",
+      "email": "nabila@example.com",
+      "address": "Jl. Riau No. 55",
+      "city": "Bandung",
+      "postalCode": "40115",
+      "shippingOption": {
+        "id": "ship-fast",
+        "name": "Quick Strawberry Courier",
+        "courier": "Paxel",
+        "estimate": "1 hari sampai",
+        "cost": 28000
+      },
+      "paymentMethod": "BCA Virtual Account",
+      "items": [
+        {
+          "product": {
+            "id": "bb-02",
+            "name": "Little Daydream Sling",
+            "slug": "little-daydream-sling",
+            "category": "Sling Bags",
+            "price": 189000,
+            "originalPrice": 219000,
+            "colors": [
+              {
+                "name": "Cream",
+                "hex": "#FFF8EC"
+              },
+              {
+                "name": "Sage Green",
+                "hex": "#A8B69A"
+              }
+            ],
+            "description": "Sling bag praktis untuk kebutuhan sehari-hari dengan siluet vintage modern, gesper logam kuningan antik, dan strap yang nyaman.",
+            "story": "Sahabat setia untuk jalan-jalan santai mencari toko buku tua dan kedai kopi tenang. Siluet kotaknya kokoh namun lembut, memadukan nuansa kulit vegan premium dengan jahitan rapi buatan pengrajin lokal.",
+            "image": "/src/assets/images/product_little_daydream_sling_1793250121639.jpg",
+            "gallery": [
+              "/src/assets/images/product_little_daydream_sling_1793250121639.jpg",
+              "/src/assets/images/hero_buttonberry_collection_1793250120557.jpg"
+            ],
+            "tag": "Little Favorite",
+            "dimensions": "21 cm × 16 cm × 7.5 cm (Adjustable strap: 95 - 125 cm)",
+            "material": "Smooth Vegan Leather, Antique Brass Hardware, Peach Twill Lining",
+            "stock": 8,
+            "status": "Active",
+            "isBestseller": true,
+            "isNew": false,
+            "rating": 5,
+            "reviewCount": 42,
+            "careInstructions": [
+              "Bersihkan noda permukaan dengan kain microfiber basah yang lembut",
+              "Simpan dalam dustbag saat tidak digunakan"
+            ]
+          },
+          "selectedColor": "Sage Green",
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "bb-06",
+            "name": "Tiny Treasure Keychain",
+            "slug": "tiny-treasure-keychain",
+            "category": "Keychains",
+            "price": 35000,
+            "colors": [
+              {
+                "name": "Strawberry",
+                "hex": "#B94B50"
+              },
+              {
+                "name": "Cherry",
+                "hex": "#E99AA8"
+              },
+              {
+                "name": "Daisy",
+                "hex": "#F6E7A6"
+              }
+            ],
+            "description": "Gantungan kunci dekoratif untuk tas, dompet, kunci rumah, dan aksesori pribadi dengan pesona vintage scrapbook.",
+            "story": "Sebuah jimat kecil pembawa senyum di saku atau tasmu. Menggabungkan pesona strawberry enamel merah, liontin daun kuningan, dan kancing kayu asli.",
+            "image": "/src/assets/images/product_tiny_treasure_keychain_1793250123420.jpg",
+            "gallery": [
+              "/src/assets/images/product_tiny_treasure_keychain_1793250123420.jpg"
+            ],
+            "tag": "Bestseller",
+            "dimensions": "Panjang total 8.5 cm (Ring diameter 3 cm)",
+            "material": "Hard Enamel, Natural Hardwood Button, Antique Brass Ring & Charms",
+            "stock": 35,
+            "status": "Active",
+            "isBestseller": true,
+            "isNew": false,
+            "rating": 5,
+            "reviewCount": 67,
+            "careInstructions": [
+              "Hindari terkena parfum langsung"
+            ]
+          },
+          "selectedColor": "Strawberry",
+          "quantity": 2
+        }
+      ],
+      "subtotal": 259000,
+      "shippingFee": 28000,
+      "discount": 20000,
+      "total": 267000,
+      "status": "Shipped",
+      "trackingNumber": "PXL-2026-8812",
+      "date": "2026-10-28T23:25:37.709Z"
+    },
+    {
+      "orderId": "BB-2603",
+      "customerName": "Tiara Maharani",
+      "phone": "085711223344",
+      "email": "tiara@example.com",
+      "address": "Jl. Malioboro No. 12",
+      "city": "Yogyakarta",
+      "postalCode": "55271",
+      "shippingOption": {
+        "id": "ship-regular",
+        "name": "Standard Berry Express",
+        "courier": "J&T",
+        "estimate": "2-3 hari",
+        "cost": 15000
+      },
+      "paymentMethod": "Transfer Bank Manual",
+      "items": [
+        {
+          "product": {
+            "id": "bb-03",
+            "name": "Cherry Patch Card Holder",
+            "slug": "cherry-patch-card-holder",
+            "category": "Card Holders",
+            "price": 59000,
+            "originalPrice": 69000,
+            "colors": [
+              {
+                "name": "Cherry Red",
+                "hex": "#B94B50"
+              },
+              {
+                "name": "Cream",
+                "hex": "#FFF8EC"
+              }
+            ],
+            "description": "Card holder compact dengan detail patch cherry timbul, 4 slot kartu utama, dan 1 saku tengah serbaguna.",
+            "story": "Kecil dan praktis untuk menyimpan kartu transportasi, e-money, dan kartu prioritasmu. Detail buah ceri merah dengan daun hijau mungil memberikan sentuhan keceriaan.",
+            "image": "/src/assets/images/product_cherry_card_holder_1793250122338.jpg",
+            "gallery": [
+              "/src/assets/images/product_cherry_card_holder_1793250122338.jpg"
+            ],
+            "tag": "Bestseller",
+            "dimensions": "10.2 cm × 7.5 cm × 0.4 cm",
+            "material": "Supple Pebble Vegan Leather, Raised Embroidery Patch, RFID-Shielded Core",
+            "stock": 22,
+            "status": "Active",
+            "isBestseller": true,
+            "isNew": false,
+            "rating": 4.8,
+            "reviewCount": 56,
+            "careInstructions": [
+              "Lap lembut dengan kain kering"
+            ]
+          },
+          "selectedColor": "Cherry Red",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 59000,
+      "shippingFee": 15000,
+      "discount": 0,
+      "total": 74000,
+      "status": "Completed",
+      "trackingNumber": "JNT-90812301",
+      "date": "2026-10-27T03:25:37.709Z"
+    }
+  ],
+  "promotions": [
+    {
+      "id": "promo-01",
+      "code": "BUTTONJOY10",
+      "name": "Diskon Sambutan 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 100000,
+      "usageCount": 42,
+      "maxUsage": 500,
+      "isActive": true,
+      "expiryDate": "2026-12-31"
+    },
+    {
+      "id": "promo-02",
+      "code": "LOVELY20K",
+      "name": "Potongan Rp20.000 Hari Spesial",
+      "type": "nominal",
+      "value": 20000,
+      "minSpend": 150000,
+      "usageCount": 18,
+      "maxUsage": 100,
+      "isActive": true,
+      "expiryDate": "2026-12-31"
+    },
+    {
+      "id": "promo-03",
+      "code": "BERRYNEW15",
+      "name": "Diskon Member Baru 15%",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 200000,
+      "usageCount": 5,
+      "maxUsage": 50,
+      "isActive": true,
+      "expiryDate": "2026-11-30"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-01",
+      "action": "Pembaruan Stok",
+      "details": "Stok Strawberry Picnic Tote diubah menjadi 14 unit.",
+      "user": "Berry Studio Owner",
+      "timestamp": "2026-10-29T15:25:37.709Z"
+    },
+    {
+      "id": "log-02",
+      "action": "Pengiriman Pesanan",
+      "details": "Pesanan #BB-2602 diubah menjadi Shipped (No. Resi: PXL-2026-8812).",
+      "user": "Berry Studio Owner",
+      "timestamp": "2026-10-29T07:25:37.709Z"
+    }
+  ],
+  "homepageContent": {
+    "announcementBar": "Little treasures, made for everyday adventures. · Gratis ongkir untuk pesanan di atas Rp250.000",
+    "heroHeadline": "Small Things, Big Whimsy.",
+    "heroSubtitle": "Aksesori kecil untuk menemani hari-harimu yang penuh cerita. Dibuat dengan motif gingham, kancing vintage, dan sentuhan cinta.",
+    "heroImage": "/src/assets/images/hero_buttonberry_collection_1793250120557.jpg",
+    "promoBannerTitle": "Collect Little Joys",
+    "promoBannerHeading": "Temukan aksesori yang terasa seperti kamu.",
+    "promoBannerText": "Setiap potongan dirancang untuk tahan lama, praktis, dan memberi warna manis pada outfit harianmu.",
+    "brandIntroTitle": "A Little World of Lovely Things.",
+    "brandIntroDescription": "Di Buttonberry, kami percaya bahwa benda sehari-hari juga bisa punya cerita. Dari tas untuk menemani petualangan hingga gantungan kecil yang membuatmu tersenyum, setiap detail dirancang agar fungsional sekaligus penuh karakter.",
+    "newsletterHeading": "Letters from Buttonberry",
+    "newsletterDescription": "Dapatkan kabar koleksi terbaru, cerita kecil dari meja pengrajin, dan kejutan manis diskon pembuka."
+  },
+  "storeSettings": {
+    "storeName": "Buttonberry",
+    "tagline": "Little Things, Lovely Days",
+    "storeDescription": "Toko butik aksesori fungsional bertema whimsical vintage.",
+    "contactEmail": "hello@buttonberry.com",
+    "whatsappNumber": "+62 812-9876-5432",
+    "instagramUrl": "https://instagram.com/buttonberry",
+    "tiktokUrl": "https://tiktok.com/@buttonberry",
+    "storeAddress": "Jl. Ciumbuleuit No. 42, Cidadap, Kota Bandung, Jawa Barat 40142",
+    "currency": "IDR",
+    "standardShippingFee": 15000,
+    "freeShippingThreshold": 250000,
+    "storeAvailability": "open"
+  }
+}

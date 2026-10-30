@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-butter: #F6E7A6;
+    --color-strawberry: #E99AA8;
+    --color-cream: #FFF8EC;
+    --color-sage: #A8B69A;
+    --color-cherry: #B94B50;
+    --color-cocoa: #60463E;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: #FFF8EC;
+    color: #60463E;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: 'Fraunces', Georgia, serif;
+  }
+
+  .font-script {
+    font-family: 'Caveat', cursive;
+  }
+}
+
+/* Subtle Gingham Patterns for vintage aesthetic */
+.bg-gingham-pink {
+  background-color: #fff9fa;
+  background-image: 
+    linear-gradient(90deg, rgba(233, 154, 168, 0.15) 50%, transparent 50%),
+    linear-gradient(rgba(233, 154, 168, 0.15) 50%, transparent 50%);
+  background-size: 20px 20px;
+}
+
+.bg-gingham-yellow {
+  background-color: #fffdf5;
+  background-image: 
+    linear-gradient(90deg, rgba(246, 231, 166, 0.35) 50%, transparent 50%),
+    linear-gradient(rgba(246, 231, 166, 0.35) 50%, transparent 50%);
+  background-size: 20px 20px;
+}
+
+.bg-gingham-sage {
+  background-color: #f7f9f6;
+  background-image: 
+    linear-gradient(90deg, rgba(168, 182, 154, 0.2) 50%, transparent 50%),
+    linear-gradient(rgba(168, 182, 154, 0.2) 50%, transparent 50%);
+  background-size: 20px 20px;
+}
+
+/* Scalloped edge visual accent */
+.scallop-border-bottom {
+  position: relative;
+}
+.scallop-border-bottom::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+  right: 0;
+  height: 8px;
+  background-size: 16px 8px;
+  background-repeat: repeat-x;
+  background-image: radial-gradient(circle at 8px 0, transparent 8px, #FFF8EC 8.5px);
+}
+
+/* Smooth custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #FFF8EC;
+}
+::-webkit-scrollbar-thumb {
+  background: #E99AA8;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #B94B50;
+}
