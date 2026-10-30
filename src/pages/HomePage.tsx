@@ -116,7 +116,7 @@ export const HomePage: React.FC = () => {
                   <div className="relative bg-white p-3 rounded-3xl border border-[#E99AA8]/40 shadow-md">
                     <div className="aspect-4/3 lg:aspect-square rounded-2xl overflow-hidden relative">
                       <img
-                        src={homepageContent?.heroImage || '/src/assets/images/hero_buttonberry_collection_1793250120557.jpg'}
+                        src={homepageContent?.heroImage || '/images/hero-buttonberry-collection.jpg'}
                         alt="Buttonberry Flatlay Collection"
                         className="w-full h-full object-cover"
                         loading="eager"

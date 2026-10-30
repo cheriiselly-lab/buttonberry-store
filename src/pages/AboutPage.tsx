@@ -30,7 +30,7 @@ export const AboutPage: React.FC = () => {
         <div className="md:col-span-5 relative">
           <div className="aspect-4/5 rounded-3xl overflow-hidden border-4 border-white shadow-md bg-[#FFF8EC] rotate-1 hover:rotate-0 transition-transform duration-300">
             <img
-              src="/src/assets/images/vintage_scrapbook_aesthetic_flatlay_1793250122119.jpg"
+              src="/images/about-workshop-flatlay.jpg"
               alt="Buttonberry Workshop"
               className="w-full h-full object-cover"
             />

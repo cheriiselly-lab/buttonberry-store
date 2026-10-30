@@ -37,7 +37,7 @@ export const AdminProductsPage: React.FC = () => {
     originalPrice: 119000,
     description: '',
     story: '',
-    image: '/src/assets/images/hero_buttonberry_collection_1793250120557.jpg',
+    image: '/images/hero-buttonberry-collection.jpg',
     galleryText: '',
     tag: 'New' as any,
     dimensions: 'Standard size',
@@ -85,8 +85,8 @@ export const AdminProductsPage: React.FC = () => {
       originalPrice: 119000,
       description: 'Aksesori manis berdetail khas Buttonberry.',
       story: 'Dibuat dengan tangan dengan sentuhan vintage.',
-      image: '/src/assets/images/product_strawberry_picnic_tote_1793250121895.jpg',
-      galleryText: '/src/assets/images/product_strawberry_picnic_tote_1793250121895.jpg\n/src/assets/images/hero_buttonberry_collection_1793250120557.jpg',
+      image: '/images/product-strawberry-picnic-tote.jpg',
+      galleryText: '/images/product-strawberry-picnic-tote.jpg\n/images/hero-buttonberry-collection.jpg',
       tag: 'New',
       dimensions: '30 cm × 25 cm',
       material: 'Cotton Linen & Wood Button',
@@ -461,7 +461,7 @@ export const AdminProductsPage: React.FC = () => {
                   rows={2}
                   value={formData.galleryText}
                   onChange={(e) => setFormData({ ...formData, galleryText: e.target.value })}
-                  placeholder="https://... atau /src/assets/images/..."
+                  placeholder="https://... atau /images/..."
                   className="w-full px-3 py-2 rounded-xl border border-[#E99AA8]/40 bg-[#FFF8EC]/30 text-[#60463E] focus:outline-none font-mono text-[11px]"
                 />
               </div>

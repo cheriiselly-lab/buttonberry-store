@@ -162,7 +162,7 @@ export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({ children
     announcementBar: 'Little treasures, made for everyday adventures. · Gratis ongkir untuk pesanan di atas Rp250.000',
     heroHeadline: 'Small Things, Big Whimsy.',
     heroSubtitle: 'Aksesori kecil untuk menemani hari-harimu yang penuh cerita. Dibuat dengan motif gingham, kancing vintage, dan sentuhan cinta.',
-    heroImage: '/src/assets/images/hero_buttonberry_collection_1793250120557.jpg',
+    heroImage: '/images/hero-buttonberry-collection.jpg',
     promoBannerTitle: 'Collect Little Joys',
     promoBannerHeading: 'Temukan aksesori yang terasa seperti kamu.',
     promoBannerText: 'Setiap potongan dirancang untuk tahan lama, praktis, dan memberi warna manis pada outfit harianmu.',
