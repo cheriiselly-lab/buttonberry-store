@@ -49,10 +49,10 @@ export const PRODUCTS: Product[] = [
     ],
     description: 'Tote bag dengan motif gingham dan detail strawberry yang playful. Dirancang untuk membawa laptop, buku bacaan, dan perlengkapan harianmu.',
     story: 'Terinspirasi dari sore piknik di bawah pohon rindang dengan keranjang rotan dan buah stroberi segar. Setiap tote memiliki saku depan berbordir tangan dan kancing kayu mungil yang dijahit dengan benang katun pilihan.',
-    image: '/src/assets/images/product_strawberry_picnic_tote_1793250121895.jpg',
+    image: '/src/assets/images/product_strawberry_picnic_tote_1793336249073.jpg',
     gallery: [
-      '/src/assets/images/product_strawberry_picnic_tote_1793250121895.jpg',
-      '/src/assets/images/hero_buttonberry_collection_1793250120557.jpg'
+      '/src/assets/images/product_strawberry_picnic_tote_1793336249073.jpg',
+      '/src/assets/images/hero_buttonberry_collection_1793336247584.jpg'
     ],
     tag: 'Bestseller',
     dimensions: '38 cm × 34 cm × 9 cm (Handle drop: 28 cm)',
@@ -81,10 +81,10 @@ export const PRODUCTS: Product[] = [
     ],
     description: 'Sling bag praktis untuk kebutuhan sehari-hari dengan siluet vintage modern, gesper logam kuningan antik, dan strap yang nyaman.',
     story: 'Sahabat setia untuk jalan-jalan santai mencari toko buku tua dan kedai kopi tenang. Siluet kotaknya kokoh namun lembut, memadukan nuansa kulit vegan premium dengan jahitan rapi buatan pengrajin lokal.',
-    image: '/src/assets/images/product_little_daydream_sling_1793250121639.jpg',
+    image: '/src/assets/images/product_little_daydream_sling_1793336250314.jpg',
     gallery: [
-      '/src/assets/images/product_little_daydream_sling_1793250121639.jpg',
-      '/src/assets/images/hero_buttonberry_collection_1793250120557.jpg'
+      '/src/assets/images/product_little_daydream_sling_1793336250314.jpg',
+      '/src/assets/images/hero_buttonberry_collection_1793336247584.jpg'
     ],
     tag: 'Little Favorite',
     dimensions: '21 cm × 16 cm × 7.5 cm (Adjustable strap: 95 - 125 cm)',
@@ -113,10 +113,10 @@ export const PRODUCTS: Product[] = [
     ],
     description: 'Card holder compact dengan detail patch cherry timbul, 4 slot kartu utama, dan 1 saku tengah serbaguna.',
     story: 'Kecil dan praktis untuk menyimpan kartu transportasi, e-money, dan kartu prioritasmu. Detail buah ceri merah dengan daun hijau mungil memberikan sentuhan keceriaan.',
-    image: '/src/assets/images/product_cherry_card_holder_1793250122338.jpg',
+    image: '/src/assets/images/product_cherry_card_holder_1793336250813.jpg',
     gallery: [
-      '/src/assets/images/product_cherry_card_holder_1793250122338.jpg',
-      '/src/assets/images/hero_buttonberry_collection_1793250120557.jpg'
+      '/src/assets/images/product_cherry_card_holder_1793336250813.jpg',
+      '/src/assets/images/hero_buttonberry_collection_1793336247584.jpg'
     ],
     tag: 'Bestseller',
     dimensions: '10.2 cm × 7.5 cm × 0.4 cm',
@@ -144,10 +144,10 @@ export const PRODUCTS: Product[] = [
     ],
     description: 'Pouch multifungsi untuk menyimpan barang-barang kecil, kosmetik, earphone, alat tulis, atau obat-obatan pribadi.',
     story: 'Didesain menyerupai kantong surat vintage dengan tepi scalloped bergelombang yang manis. Dilengkapi tarikan ritsleting kancing kayu berukir stroberi.',
-    image: '/src/assets/images/product_sunday_notes_pouch_1793250122134.jpg',
+    image: '/src/assets/images/product_sunday_notes_pouch_1793336251047.jpg',
     gallery: [
-      '/src/assets/images/product_sunday_notes_pouch_1793250122134.jpg',
-      '/src/assets/images/product_butter_coin_purse_1793250142786.jpg'
+      '/src/assets/images/product_sunday_notes_pouch_1793336251047.jpg',
+      '/src/assets/images/product_butter_coin_purse_1793336253595.jpg'
     ],
     tag: 'New',
     dimensions: '18 cm × 12 cm × 6 cm',
@@ -175,10 +175,10 @@ export const PRODUCTS: Product[] = [
     ],
     description: 'Strap tas dengan kombinasi warna playful, rajutan jacquard rapat, dan kaitan kuningan putar 360 derajat yang kuat.',
     story: 'Ubah suasana tas favoritmu dalam sekejap! Motif rajut strawberry & geometric vintage memberikan aksen statement instan pada tas polos apa pun.',
-    image: '/src/assets/images/product_berry_loop_strap_1793250122713.jpg',
+    image: '/src/assets/images/product_berry_loop_strap_1793336252195.jpg',
     gallery: [
-      '/src/assets/images/product_berry_loop_strap_1793250122713.jpg',
-      '/src/assets/images/product_little_daydream_sling_1793250121639.jpg'
+      '/src/assets/images/product_berry_loop_strap_1793336252195.jpg',
+      '/src/assets/images/product_little_daydream_sling_1793336250314.jpg'
     ],
     tag: 'Little Favorite',
     dimensions: 'Lebar 4 cm, Panjang dapat diatur 80 - 135 cm',
@@ -206,10 +206,10 @@ export const PRODUCTS: Product[] = [
     ],
     description: 'Gantungan kunci dekoratif untuk tas, dompet, kunci rumah, dan aksesori pribadi dengan pesona vintage scrapbook.',
     story: 'Sebuah jimat kecil pembawa senyum di saku atau tasmu. Menggabungkan pesona strawberry enamel merah, liontin daun kuningan, dan kancing kayu asli.',
-    image: '/src/assets/images/product_tiny_treasure_keychain_1793250123420.jpg',
+    image: '/src/assets/images/product_tiny_treasure_keychain_1793336252359.jpg',
     gallery: [
-      '/src/assets/images/product_tiny_treasure_keychain_1793250123420.jpg',
-      '/src/assets/images/hero_buttonberry_collection_1793250120557.jpg'
+      '/src/assets/images/product_tiny_treasure_keychain_1793336252359.jpg',
+      '/src/assets/images/hero_buttonberry_collection_1793336247584.jpg'
     ],
     tag: 'Bestseller',
     dimensions: 'Panjang total 8.5 cm (Ring diameter 3 cm)',
@@ -237,10 +237,10 @@ export const PRODUCTS: Product[] = [
     ],
     description: 'Dompet koin kiss-lock klasik dengan sulaman bunga daisy dan bingkai kuningan timbul bernuansa antik.',
     story: 'Bunyi klik logam kiss-lock yang renyah membawa memori manis ke masa lalu. Dibuat dari kulit lembut bergradasi mentega hangat dengan bordir bunga aster putih.',
-    image: '/src/assets/images/product_butter_coin_purse_1793250142786.jpg',
+    image: '/src/assets/images/product_butter_coin_purse_1793336253595.jpg',
     gallery: [
-      '/src/assets/images/product_butter_coin_purse_1793250142786.jpg',
-      '/src/assets/images/hero_buttonberry_collection_1793250120557.jpg'
+      '/src/assets/images/product_butter_coin_purse_1793336253595.jpg',
+      '/src/assets/images/hero_buttonberry_collection_1793336247584.jpg'
     ],
     tag: 'Handmade Delight',
     dimensions: '11 cm × 9.5 cm × 4.5 cm',
@@ -267,10 +267,10 @@ export const PRODUCTS: Product[] = [
     ],
     description: 'Pita gantungan tas motif gingham dengan kancing kayu bordir strawberry dan klip penjepit kuningan antik.',
     story: 'Sentuhan manis yang membuat setiap tas polos langsung terasa seperti edisi khusus Buttonberry.',
-    image: '/src/assets/images/product_ribbon_bag_tie_1793250142776.jpg',
+    image: '/src/assets/images/product_ribbon_bag_tie_1793336253612.jpg',
     gallery: [
-      '/src/assets/images/product_ribbon_bag_tie_1793250142776.jpg',
-      '/src/assets/images/hero_buttonberry_collection_1793250120557.jpg'
+      '/src/assets/images/product_ribbon_bag_tie_1793336253612.jpg',
+      '/src/assets/images/hero_buttonberry_collection_1793336247584.jpg'
     ],
     tag: 'New',
     dimensions: 'Panjang pita 14 cm, Lebar 2.5 cm',
@@ -292,7 +292,7 @@ export const CATEGORIES: CategoryInfo[] = [
     name: 'Tote Bags',
     description: 'Tas jinjing bermotif gingham & aksen kancing kayu yang luas dan kuat.',
     tagline: 'Ruang luas untuk segala hal manis',
-    image: '/src/assets/images/product_strawberry_picnic_tote_1793250121895.jpg',
+    image: '/src/assets/images/product_strawberry_picnic_tote_1793336249073.jpg',
     itemCount: 1
   },
   {
@@ -300,7 +300,7 @@ export const CATEGORIES: CategoryInfo[] = [
     name: 'Sling Bags',
     description: 'Tas selempang praktis bersiluet vintage modern untuk petualangan harian.',
     tagline: 'Ringan menemani langkah ceritamu',
-    image: '/src/assets/images/product_little_daydream_sling_1793250121639.jpg',
+    image: '/src/assets/images/product_little_daydream_sling_1793336250314.jpg',
     itemCount: 1
   },
   {
@@ -308,7 +308,7 @@ export const CATEGORIES: CategoryInfo[] = [
     name: 'Card Holders',
     description: 'Tempat kartu ramping berdetail patch cherry yang mudah diselipkan.',
     tagline: 'Kecil, rapi, dan selalu siap',
-    image: '/src/assets/images/product_cherry_card_holder_1793250122338.jpg',
+    image: '/src/assets/images/product_cherry_card_holder_1793336250813.jpg',
     itemCount: 1
   },
   {
@@ -316,7 +316,7 @@ export const CATEGORIES: CategoryInfo[] = [
     name: 'Pouches',
     description: 'Kantong serbaguna berdetail scallop vintage untuk barang-barang esensial.',
     tagline: 'Merawat rahasia kecilmu dengan manis',
-    image: '/src/assets/images/product_sunday_notes_pouch_1793250122134.jpg',
+    image: '/src/assets/images/product_sunday_notes_pouch_1793336251047.jpg',
     itemCount: 2
   },
   {
@@ -324,7 +324,7 @@ export const CATEGORIES: CategoryInfo[] = [
     name: 'Bag Straps',
     description: 'Tali tas bermotif jacquard dan pita klip untuk menyegarkan gaya tasmu.',
     tagline: 'Beri karakter baru pada tas favoritmu',
-    image: '/src/assets/images/product_berry_loop_strap_1793250122713.jpg',
+    image: '/src/assets/images/product_berry_loop_strap_1793336252195.jpg',
     itemCount: 2
   },
   {
@@ -332,7 +332,7 @@ export const CATEGORIES: CategoryInfo[] = [
     name: 'Keychains',
     description: 'Gantungan kunci enamel strawberry, liontin kancing, dan kuningan antik.',
     tagline: 'Secuil senyum di ujung jemarimu',
-    image: '/src/assets/images/product_tiny_treasure_keychain_1793250123420.jpg',
+    image: '/src/assets/images/product_tiny_treasure_keychain_1793336252359.jpg',
     itemCount: 1
   }
 ];
